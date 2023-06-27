@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.1",
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "@circle-fin/circle-sdk": "^2.0.0"
+  }
+}
